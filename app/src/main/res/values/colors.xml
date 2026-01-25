@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#7A9B57</color>
+    <color name="pink_button">#F49ABB</color>
+    <color name="purple_aespa">#B66EE8</color>
+    <color name="red_ateez">#510400</color>
+    <color name="pink_blackpink">#E63986</color>
+    <color name="purple_bts">#8974BA</color>
+    <color name="orange_exo">#E6B58A</color>
+    <color name="blue_illit">#B6CCFE</color>
+    <color name="blue_lesserafim">#9FBEFC</color>
+    <color name="seren_seventeen">#F8D6DC</color>
+    <color name="yellow_straykids">#FFE761</color>
+    <color name="pink_twice">#FEB1C6</color>
+</resources>

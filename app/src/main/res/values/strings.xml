@@ -1,0 +1,715 @@
+<resources>
+    <string name="app_name">K-Popedia</string>
+
+    <string name="group_name">Nama Grup</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="name_user">Nama User</string>
+    <string name="email_user">Email User</string>
+    <string name="birthday_user">Ulang Tahun User</string>
+
+    <string name="my_name">Gabriela Bianka Eva Ivanka Bimbin</string>
+    <string name="my_email">bevaivanka@gmail.com</string>
+
+
+    <string name="template_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+    <string-array name="data_group">
+        <item>aespa</item>
+        <item>ATEEZ</item>
+        <item>BLACKPINK</item>
+        <item>BTS</item>
+        <item>Cortis</item>
+        <item>EXO</item>
+        <item>ILLIT</item>
+        <item>LE SSERAFIM</item>
+        <item>Stray Kids</item>
+        <item>TWICE</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Girl group dengan konsep futuristik yang menggabungkan teknologi dan dunia virtual sebagai ciri khas utama mereka.</item>
+        <item>Boy group yang dikenal dengan konsep panggung yang intens dan performa energik, memiliki basis penggemar internasional yang besar.</item>
+        <item>Girl group global yang dikenal dengan citra kuat, pengaruh internasional, dan pencapaian besar di industri musik.</item>
+        <item>Boy group asal Korea Selatan yang debut pada 2013 dan dikenal sebagai ikon global dengan pengaruh besar di industri musik dunia.</item>
+        <item>Boy group self-producing yang aktif terlibat dalam pembuatan lagu dan koreografi, dikenal dengan kekompakan timnya.</item>
+        <item>Boy group generasi ketiga yang terkenal dengan kemampuan vokal kuat dan konsep musikal yang konsisten sejak debutnya.</item>
+        <item>Girl group generasi terbaru yang mencuri perhatian lewat debut yang kuat dan respons positif dari pasar global.</item>
+        <item>Girl group dengan identitas modern dan narasi kuat, dikenal lewat konsep percaya diri dan performa yang solid.</item>
+        <item>Boy group dengan identitas musik yang kuat dan gaya eksperimental, aktif dalam penulisan serta produksi lagu mereka sendiri.</item>
+        <item>Girl group dengan konsep ceria yang konsisten dan rekam jejak panjang sebagai salah satu grup paling populer di Korea Selatan.</item>
+    </string-array>
+
+    <string-array name="data_description_detail">
+        <item>Girl group generasi keempat yang mengusung konsep futuristik dengan menggabungkan teknologi, dunia virtual, dan narasi metaverse sebagai identitas utama. Dibentuk oleh SM Entertainment dan debut pada 2020, grup ini dikenal lewat musik yang memadukan K-pop, hip-hop, hingga hyperpop. Mereka sukses menarik perhatian global melalui lagu-lagu hit, pencapaian chart internasional, serta visual konsep yang kuat dan inovatif.</item>
+        <item>Boy group dengan performa panggung yang intens dan penuh energi, dikenal melalui koreografi kuat serta konsep petualangan dalam musik mereka. Debut pada 2018 di bawah KQ Entertainment, grup ini memiliki basis penggemar internasional yang besar dan sering dijuluki sebagai Global Performance Idols karena konsistensi mereka di panggung dunia dan pencapaian chart global.</item>
+        <item>Girl group global dengan citra kuat dan pengaruh internasional yang sangat besar di industri musik. Dibentuk oleh YG Entertainment pada 2016, grup ini dikenal dengan konsep girl crush yang ikonik, kolaborasi lintas negara, serta pencapaian luar biasa di chart dunia. Mereka kerap disebut sebagai salah satu girl group terbesar di dunia berkat dampak budaya dan popularitas globalnya.</item>
+        <item>Boy group asal Korea Selatan yang debut pada 2013 dan berkembang menjadi ikon global di industri musik dunia. Awalnya dikenal lewat hip-hop dan rap, grup ini berevolusi ke berbagai genre pop dan mencetak banyak rekor internasional. Dengan fandom besar di seluruh dunia, mereka juga diakui atas pengaruh budaya, pesan sosial, dan prestasi bergengsi di kancah global.</item>
+        <item>Boy group generasi terbaru yang mengusung konsep self-producing dengan keterlibatan langsung dalam penulisan lagu, koreografi, dan produksi visual. Debut pada 2025 di bawah BigHit Music, grup ini membawa filosofi kebebasan berekspresi dan kreativitas tanpa batas. Kekompakan tim serta identitas sebagai creative crew menjadi daya tarik utama mereka di era K-pop modern.</item>
+        <item>Boy group generasi ketiga yang dikenal sebagai powerhouse vokal dengan konsep musikal yang konsisten sejak debut. Dibentuk oleh SM Entertainment, grup ini berhasil menjual jutaan album dan menciptakan standar baru dalam kualitas vokal serta visual K-pop. Pengaruh mereka menjadikan grup ini salah satu ikon terbesar dalam sejarah industri musik Asia.</item>
+        <item>Girl group generasi terbaru yang mencuri perhatian sejak debut berkat musik yang catchy, konsep visual segar, dan respons positif dari pasar global. Mereka dikenal mampu menghadirkan energi ceria sekaligus modern, dengan lagu-lagu yang cepat viral dan mudah diterima oleh pendengar internasional di era K-pop digital.</item>
+        <item>Girl group dengan identitas modern dan narasi percaya diri yang kuat, dikenal melalui performa solid dan konsep fearless yang konsisten. Debut di bawah HYBE, grup ini sukses menempati posisi tinggi di chart internasional serta membangun citra kuat sebagai representasi girl group generasi baru dengan karakter berani dan mandiri.</item>
+        <item>Boy group dengan identitas musik yang kuat dan gaya eksperimental, aktif menulis serta memproduksi lagu mereka sendiri. Berasal dari JYP Entertainment, grup ini dikenal lewat karya genre-bending, konsep inovatif, dan intensitas panggung yang tinggi. Album-album mereka kerap mendominasi chart global dan memperkuat reputasi sebagai performance leaders.</item>
+        <item>Girl group dengan konsep ceria yang konsisten dan perjalanan panjang sebagai salah satu grup paling populer di Korea Selatan. Debut pada 2015, mereka dikenal lewat lagu-lagu pop yang mudah diingat, koreografi ikonik, dan kemampuan beradaptasi secara musikal. Popularitas mereka meluas ke Jepang dan pasar global dengan basis penggemar yang sangat solid.</item>
+    </string-array>
+
+    <string-array name="data_achievement_detail">
+        <item>1. Meraih Grand Slam di acara musik lewat lagu Savage\n
+    2. Girl group Gen 4 pertama tampil di panggung utama Coachella\n
+    3. Lagu Next Level menang Song of the Year di Korean Music Awards\n
+    4. Rekor penjualan minggu pertama tertinggi lewat album MY WORLD\n
+    5. Global Ambassador pertama brand Givenchy dari kalangan K-Pop</item>
+        <item>1. Boy group non-Big 4 pertama puncaki Billboard 200\n
+    2. Boy group K-Pop pertama tampil resmi di Coachella 2024\n
+    3. Meraih gelar Million Seller meski dari agensi menengah\n
+    4. Menang Worldwide Fans Choice di MAMA secara konsisten\n
+    5. Sukses menjual habis tiket tur dunia di arena-arena besar global</item>
+        <item>1. Girl group K-Pop pertama jadi headliner utama Coachella\n
+    2. Artis dengan subscriber YouTube terbanyak secara global\n
+    3. Album BORN PINK puncaki Billboard 200 dan UK Albums Chart\n
+    4. Grup wanita pertama meraih Million Seller di Circle Chart\n
+    5. Seluruh member menjadi Global Ambassador brand mewah dunia</item>
+        <item>1. Artis Korea pertama nominasi Grammy Awards berturut-turut\n
+    2. Mencetak 6 lagu No. 1 di Billboard Hot 100\n
+    3. Pemenang Artist of the Year di American Music Awards 2021\n
+    4. Pemegang Guinness World Record viewers YouTube 24 jam terbanyak\n
+    5. Menjadi Utusan Khusus Presiden Korea Selatan untuk PBB</item>
+        <item>1. Menarik perhatian sebagai grup indie/pop konsep visual unik\n
+    2. Pertumbuhan followers signifikan di platform streaming alternatif\n
+    3. Masuk jajaran Artist to Watch di berbagai playlist kurasi\n
+    4. Kolaborasi lintas genre sukses dengan musisi internasional\n
+    5. Dikenal karena produksi musik mandiri dengan sound khas</item>
+        <item>1. Meraih gelar Quintuple Million Seller (5 album 1 juta+ kopi)\n
+    2. Menang Daesang 5 tahun berturut-turut di MAMA dan SMA\n
+    3. Tampil di Upacara Penutupan Olimpiade Pyeongchang 2018\n
+    4. Lagu Power jadi lagu K-Pop pertama di The Dubai Fountain\n
+    5. Grup pertama dengan medali peringatan resmi dari pemerintah Korea</item>
+        <item>1. Lagu debut Magnetic pertama masuk Billboard Hot 100\n
+    2. Mencapai Perfect All-Kill (PAK) tercepat untuk rookie\n
+    3. Rekor streaming Spotify lagu debut terbanyak dalam 24 jam\n
+    4. Penjualan album debut minggu pertama tertinggi di Hanteo\n
+    5. Menjadi Global Campaign Model Acne Studios sebelum debut</item>
+        <item>1. Girl group K-Pop tercepat masuk Top 10 Billboard 200\n
+    2. Perfect Night jadi lagu Inggris pertama No. 1 di Chart MelOn\n
+    3. Sertifikasi Gold RIAJ Jepang tercepat setelah debut\n
+    4. House Ambassadors resmi untuk brand Louis Vuitton\n
+    5. Aksi panggung Coachella 2024 yang viral secara global</item>
+        <item>1. 5 album berturut-turut No. 1 di Billboard 200\n
+    2. Pemenang Best K-Pop di MTV Video Music Awards 2023\n
+    3. Rekor pre-order album 5-STAR tertinggi (5,13 juta kopi)\n
+    4. Headliner festival internasional Lollapalooza Paris dan Chicago\n
+    5. Memproduksi hampir seluruh lagu mandiri via unit 3RACHA</item>
+        <item>1. Girl group K-Pop pertama sukses Dome Tour di Jepang\n
+    2. Pemegang rekor Daesang terbanyak kategori grup wanita\n
+    3. Penghargaan Breakthrough Artist di Billboard Women in Music\n
+    4. Girl group pertama dengan 20 MV di atas 100 juta views\n
+    5. Dominasi chart Jepang dengan sertifikasi Platinum RIAJ terbanyak</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/aespa_pict</item>
+        <item>@drawable/ateez_pict</item>
+        <item>@drawable/bp_pict</item>
+        <item>@drawable/bts_pict</item>
+        <item>@drawable/cortis_pict</item>
+        <item>@drawable/exo_pict</item>
+        <item>@drawable/illit_pict</item>
+        <item>@drawable/lsf_pict</item>
+        <item>@drawable/straykidz_pict</item>
+        <item>@drawable/twice_pict</item>
+    </integer-array>
+
+    <integer-array name="data_layout">
+        <item>@drawable/aespa_layout</item>
+        <item>@drawable/ateez_layout</item>
+        <item>@drawable/blackpink_layout</item>
+        <item>@drawable/bts_layout</item>
+        <item>@drawable/cortis_layout</item>
+        <item>@drawable/exo_layout</item>
+        <item>@drawable/illit_layout</item>
+        <item>@drawable/lesserafim_layout</item>
+        <item>@drawable/straykids_layout</item>
+        <item>@drawable/twice_layout</item>
+    </integer-array>
+
+    <string-array name="aespa_member">
+        <item>Karina</item>
+        <item>Winter</item>
+        <item>Giselle</item>
+        <item>Ningning</item>
+    </string-array>
+
+    <string-array name="ateez_member">
+        <item>Seonghwa</item>
+        <item>Hongjoong</item>
+        <item>Yunho</item>
+        <item>Yeosang</item>
+        <item>San</item>
+        <item>Mingi</item>
+        <item>Wooyoung</item>
+        <item>Jongho</item>
+    </string-array>
+
+    <string-array name="blackpink_member">
+        <item>Jennie</item>
+        <item>Jisoo</item>
+        <item>Rose</item>
+        <item>Lisa</item>
+    </string-array>
+
+    <string-array name="bts_member">
+        <item>RM</item>
+        <item>JIN</item>
+        <item>J-HOPE</item>
+        <item>SUGA</item>
+        <item>Jimin</item>
+        <item>V</item>
+        <item>Jungkook</item>
+    </string-array>
+
+    <string-array name="cortis_member">
+        <item>James</item>
+        <item>Martin</item>
+        <item>Seonghyeon</item>
+        <item>Juhoon</item>
+        <item>Keonho</item>
+    </string-array>
+
+    <string-array name="exo_member">
+        <item>Suho</item>
+        <item>Baekhyun</item>
+        <item>Chanyeol</item>
+        <item>D.O</item>
+        <item>Kai</item>
+        <item>Sehun</item>
+        <item>Xiumin</item>
+        <item>Lay</item>
+        <item>Chen</item>
+    </string-array>
+
+    <string-array name="illit_member">
+        <item>Yunah</item>
+        <item>Minju</item>
+        <item>Moka</item>
+        <item>Wonhee</item>
+        <item>Iroha</item>
+    </string-array>
+
+    <string-array name="lesserafim_member">
+        <item>Chaewon</item>
+        <item>Sakura</item>
+        <item>Yunjin</item>
+        <item>Kazuha</item>
+        <item>Eunchae</item>
+    </string-array>
+
+    <string-array name="straykids_member">
+        <item>BangChan</item>
+        <item>LeeKnow</item>
+        <item>Changbin</item>
+        <item>Hyunjin</item>
+        <item>Han</item>
+        <item>Felix</item>
+        <item>Seungmin</item>
+        <item>I.N</item>
+    </string-array>
+
+    <string-array name="twice_member">
+        <item>Jihyo</item>
+        <item>Nayeon</item>
+        <item>Jeongyeon</item>
+        <item>Momo</item>
+        <item>Sana</item>
+        <item>Mina</item>
+        <item>Dahyun</item>
+        <item>Chaeyoung</item>
+        <item>Tzuyu</item>
+    </string-array>
+
+    <integer-array name="aespa_photo">
+        <item>@drawable/karina</item>
+        <item>@drawable/winter</item>
+        <item>@drawable/giselle</item>
+        <item>@drawable/ningning</item>
+    </integer-array>
+
+    <integer-array name="ateez_photo">
+        <item>@drawable/seonghwa</item>
+        <item>@drawable/hongjoong</item>
+        <item>@drawable/yunho</item>
+        <item>@drawable/yeosang</item>
+        <item>@drawable/san</item>
+        <item>@drawable/mingi</item>
+        <item>@drawable/wooyoung</item>
+        <item>@drawable/jongho</item>
+    </integer-array>
+
+    <integer-array name="blackpink_photo">
+        <item>@drawable/jennie</item>
+        <item>@drawable/jisoo</item>
+        <item>@drawable/rose</item>
+        <item>@drawable/lisa</item>
+    </integer-array>
+
+    <integer-array name="bts_photo">
+        <item>@drawable/rm</item>
+        <item>@drawable/jin</item>
+        <item>@drawable/jhope</item>
+        <item>@drawable/suga</item>
+        <item>@drawable/jimin</item>
+        <item>@drawable/v</item>
+        <item>@drawable/jungkook</item>
+    </integer-array>
+
+    <integer-array name="cortis_photo">
+        <item>@drawable/james</item>
+        <item>@drawable/martin</item>
+        <item>@drawable/seonghyeon</item>
+        <item>@drawable/juhoon</item>
+        <item>@drawable/keonho</item>
+    </integer-array>
+
+    <integer-array name="exo_photo">
+        <item>@drawable/suho</item>
+        <item>@drawable/baekhyun</item>
+        <item>@drawable/chanyeol</item>
+        <item>@drawable/kyungsoo</item>
+        <item>@drawable/kai</item>
+        <item>@drawable/sehun</item>
+        <item>@drawable/xiumin</item>
+        <item>@drawable/lay</item>
+        <item>@drawable/chen</item>
+    </integer-array>
+
+    <integer-array name="illit_photo">
+        <item>@drawable/yunah</item>
+        <item>@drawable/minju</item>
+        <item>@drawable/moka</item>
+        <item>@drawable/wonheee</item>
+        <item>@drawable/iroha</item>
+    </integer-array>
+
+    <integer-array name="lesserafim_photo">
+        <item>@drawable/chaewon</item>
+        <item>@drawable/sakuraa</item>
+        <item>@drawable/yunjin</item>
+        <item>@drawable/kazuha</item>
+        <item>@drawable/eunchae</item>
+    </integer-array>
+
+    <integer-array name="straykids_photo">
+        <item>@drawable/bangchan</item>
+        <item>@drawable/leeknow</item>
+        <item>@drawable/changbin</item>
+        <item>@drawable/hyunjin</item>
+        <item>@drawable/han</item>
+        <item>@drawable/felix</item>
+        <item>@drawable/seungmin</item>
+        <item>@drawable/jeongin</item>
+    </integer-array>
+
+    <integer-array name="twice_photo">
+        <item>@drawable/jihyo</item>
+        <item>@drawable/nayeon</item>
+        <item>@drawable/jeongyeon</item>
+        <item>@drawable/momo</item>
+        <item>@drawable/sana</item>
+        <item>@drawable/mina</item>
+        <item>@drawable/dahyun</item>
+        <item>@drawable/chaeyoung</item>
+        <item>@drawable/tzuyu</item>
+    </integer-array>
+
+    <string-array name="aespa_birthday">
+        <item>11-04-2000</item>
+        <item>01-01-2001</item>
+        <item>30-10-2000</item>
+        <item>23-10-2002</item>
+    </string-array>
+
+    <string-array name="ateez_birthday">
+        <item>03-04-1998</item>
+        <item>07-11-1998</item>
+        <item>23-03-1999</item>
+        <item>15-06-1999</item>
+        <item>10-07-1999</item>
+        <item>09-08-1999</item>
+        <item>26-11-1999</item>
+        <item>12-10-2000</item>
+    </string-array>
+
+    <string-array name="blackpink_birthday">
+        <item>16-01-1996</item>
+        <item>03-01-1995</item>
+        <item>11-02-1997</item>
+        <item>27-03-1997</item>
+    </string-array>
+
+    <string-array name="bts_birthday">
+        <item>12-09-1994</item>
+        <item>04-12-1992</item>
+        <item>18-02-1994</item>
+        <item>09-03-1993</item>
+        <item>13-10-1995</item>
+        <item>30-12-1995</item>
+        <item>01-09-1997</item>
+    </string-array>
+
+    <string-array name="cortis_birthday">
+        <item>14-10-2005</item>
+        <item>20-03-2008</item>
+        <item>13-01-2009</item>
+        <item>03-01-2008</item>
+        <item>14-02-2009</item>
+    </string-array>
+
+    <string-array name="exo_birthday">
+        <item>22-05-1991</item>
+        <item>06-05-1992</item>
+        <item>27-11-1992</item>
+        <item>12-01-1993</item>
+        <item>14-01-1994</item>
+        <item>12-04-1994</item>
+        <item>26-03-1990</item>
+        <item>07-10-1991</item>
+        <item>21-09-1992</item>
+    </string-array>
+
+    <string-array name="illit_birthday">
+        <item>15-01-2004</item>
+        <item>11-05-2004</item>
+        <item>08-10-2004</item>
+        <item>26-06-2007</item>
+        <item>04-02-2008</item>
+    </string-array>
+
+    <string-array name="lesserafim_birthday">
+        <item>01-08-2000</item>
+        <item>19-03-1998</item>
+        <item>08-10-2001</item>
+        <item>09-08-2003</item>
+        <item>10-11-2006</item>
+    </string-array>
+
+    <string-array name="straykids_birthday">
+        <item>03-10-1997</item>
+        <item>25-10-1998</item>
+        <item>11-08-1999</item>
+        <item>20-03-2000</item>
+        <item>14-09-2000</item>
+        <item>15-09-2000</item>
+        <item>22-09-2000</item>
+        <item>08-02-2001</item>
+    </string-array>
+
+    <string-array name="twice_birthday">
+        <item>01-02-1997</item>
+        <item>22-09-1995</item>
+        <item>01-11-1996</item>
+        <item>09-11-1996</item>
+        <item>29-12-1996</item>
+        <item>24-03-1997</item>
+        <item>28-05-1998</item>
+        <item>23-04-1999</item>
+        <item>14-06-1999</item>
+    </string-array>
+
+
+    <integer-array name="aespa_photo_album">
+        <item>@drawable/armageddon</item>
+        <item>@drawable/synk_parallel</item>
+        <item>@drawable/whiplash</item>
+        <item>@drawable/drama</item>
+        <item>@drawable/rich_man</item>
+        <item>@drawable/girls</item>
+        <item>@drawable/spicy</item>
+        <item>@drawable/savage</item>
+        <item>@drawable/dirty_work</item>
+    </integer-array>
+
+    <integer-array name="ateez_photo_album">
+        <item>@drawable/will</item>
+        <item>@drawable/golden_hour_part3</item>
+        <item>@drawable/golden_hour_part1</item>
+        <item>@drawable/golden_hour_part2</item>
+        <item>@drawable/fever_part1</item>
+        <item>@drawable/fever_part2</item>
+        <item>@drawable/outlaw</item>
+    </integer-array>
+
+    <integer-array name="blackpink_photo_album">
+        <item>@drawable/square_up</item>
+        <item>@drawable/the_album</item>
+        <item>@drawable/born_pink</item>
+        <item>@drawable/kill_this_love</item>
+    </integer-array>
+
+    <integer-array name="bts_photo_album">
+        <item>@drawable/love_your_self</item>
+        <item>@drawable/map_of_the_soul</item>
+        <item>@drawable/proof</item>
+        <item>@drawable/butter</item>
+        <item>@drawable/permission_to_dance</item>
+        <item>@drawable/dynamite</item>
+        <item>@drawable/be</item>
+        <item>@drawable/you_never_walk_alone</item>
+        <item>@drawable/the_most_beautiful</item>
+        <item>@drawable/skool_luv_affair</item>
+    </integer-array>
+
+    <integer-array name="cortis_photo_album">
+        <item>@drawable/color_outsite_the_lines</item>
+    </integer-array>
+
+    <integer-array name="exo_photo_album">
+        <item>@drawable/growl</item>
+        <item>@drawable/love_me_right</item>
+        <item>@drawable/love_shoot</item>
+        <item>@drawable/exact</item>
+        <item>@drawable/dont_fight_the_feeling</item>
+        <item>@drawable/the_war</item>
+    </integer-array>
+
+    <integer-array name="illit_photo_album">
+        <item>@drawable/not_cute_anymore</item>
+        <item>@drawable/super_real_me</item>
+        <item>@drawable/bomb</item>
+        <item>@drawable/ill_like_you</item>
+    </integer-array>
+
+    <integer-array name="lesserafim_photo_album">
+        <item>@drawable/hot</item>
+        <item>@drawable/antifragile</item>
+        <item>@drawable/unforgiven</item>
+        <item>@drawable/easy</item>
+        <item>@drawable/spaghetti</item>
+        <item>@drawable/perfect_night</item>
+        <item>@drawable/crazy</item>
+        <item>@drawable/fearless</item>
+        <item>@drawable/smart</item>
+        <item>@drawable/different</item>
+    </integer-array>
+
+    <integer-array name="straykids_photo_album">
+        <item>@drawable/no_easy</item>
+        <item>@drawable/karma</item>
+        <item>@drawable/rock_star</item>
+        <item>@drawable/in_life</item>
+        <item>@drawable/skzhop_hiptape</item>
+        <item>@drawable/do_it</item>
+        <item>@drawable/oddinary</item>
+        <item>@drawable/the_sound</item>
+        <item>@drawable/mixtape_dominate</item>
+        <item>@drawable/maxident</item>
+    </integer-array>
+
+    <integer-array name="twice_photo_album">
+        <item>@drawable/what_is_love</item>
+        <item>@drawable/formula_of_love</item>
+        <item>@drawable/feel_special</item>
+        <item>@drawable/this_is_for</item>
+        <item>@drawable/the_story_begins</item>
+        <item>@drawable/fancy_you</item>
+        <item>@drawable/signal</item>
+        <item>@drawable/with_you_th</item>
+    </integer-array>
+
+    <string-array name="aespa_name_album">
+        <item>Armageddon</item>
+        <item>Synk Parallel</item>
+        <item>Whiplash</item>
+        <item>Drama</item>
+        <item>Rich Man</item>
+        <item>Girls</item>
+        <item>Spicy</item>
+        <item>Savage</item>
+        <item>Dirty Work</item>
+    </string-array>
+
+    <string-array name="ateez_name_album">
+        <item>The World EP.Fin: Will</item>
+        <item>Golden Hour: Part.3</item>
+        <item>Golden Hour: Part.1</item>
+        <item>Golden Hour: Part.2</item>
+        <item>Zero: Fever Part.1</item>
+        <item>Zero: Fever Part.2</item>
+        <item>The World EP.2: Outlaw</item>
+    </string-array>
+
+    <string-array name="blackpink_name_album">
+        <item>Square Up</item>
+        <item>The Album</item>
+        <item>Born Pink</item>
+        <item>Kill This Love</item>
+    </string-array>
+
+    <string-array name="bts_name_album">
+        <item>Love Yourself: Answer</item>
+        <item>Map of the Soul:7</item>
+        <item>Proof</item>
+        <item>Butter (Hotter, Sweeter, Cooler)</item>
+        <item>Permission to Dance on Stage</item>
+        <item>Dynamite</item>
+        <item>Be</item>
+        <item>You Never Walk Alone</item>
+        <item>the Most Beautiful Moment in Life</item>
+        <item>Skool Luv Affair</item>
+    </string-array>
+
+    <string-array name="cortis_name_album">
+        <item>GO!</item>
+    </string-array>
+
+    <string-array name="exo_name_album">
+        <item>Growl</item>
+        <item>Love Me Right</item>
+        <item>Love Shoot</item>
+        <item>Ex\'Act</item>
+        <item>Dont Fight the Feeling</item>
+        <item>The War</item>
+    </string-array>
+
+    <string-array name="illit_name_album">
+        <item>NCA</item>
+        <item>Super Real Me</item>
+        <item>Bomb</item>
+        <item>Ill Like You</item>
+    </string-array>
+
+    <string-array name="lesserafim_name_album">
+        <item>Hot</item>
+        <item>Antifragile</item>
+        <item>Unforgiven</item>
+        <item>Easy</item>
+        <item>Spaghetti</item>
+        <item>Perfect Night</item>
+        <item>Crazy</item>
+        <item>Fearless</item>
+        <item>Smart</item>
+        <item>Different</item>
+    </string-array>
+
+    <string-array name="straykids_name_album">
+        <item>No Easy</item>
+        <item>Karma</item>
+        <item>Rock Star</item>
+        <item>In Life</item>
+        <item>Skzhop Hiptape</item>
+        <item>Do It</item>
+        <item>Oddinary</item>
+        <item>The Sound</item>
+        <item>Mixtape Dominate</item>
+        <item>Maxident</item>
+    </string-array>
+
+    <string-array name="twice_name_album">
+        <item>What is Love</item>
+        <item>Formula of Love</item>
+        <item>Feel Special</item>
+        <item>This is For</item>
+        <item>The Story Begins</item>
+        <item>Fancy You</item>
+        <item>Signal</item>
+        <item>With You Th</item>
+    </string-array>
+
+    <string-array name="aespa_year_album">
+        <item>2024</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2023</item>
+        <item>2025</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2021</item>
+        <item>2025</item>
+    </string-array>
+
+    <string-array name="ateez_year_album">
+        <item>2023</item>
+        <item>2025</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2023</item>
+    </string-array>
+
+    <string-array name="blackpink_year_album">
+        <item>2018</item>
+        <item>2020</item>
+        <item>2022</item>
+        <item>2019</item>
+    </string-array>
+
+    <string-array name="bts_year_album">
+        <item>2018</item>
+        <item>2020</item>
+        <item>2022</item>
+        <item>2021</item>
+        <item>2025</item>
+        <item>2020</item>
+        <item>2020</item>
+        <item>2017</item>
+        <item>2015</item>
+        <item>2014</item>
+    </string-array>
+
+    <string-array name="cortis_year_album">
+        <item>2025</item>
+    </string-array>
+
+    <string-array name="exo_year_album">
+        <item>2013</item>
+        <item>2015</item>
+        <item>2020</item>
+        <item>2016</item>
+        <item>2021</item>
+        <item>2017</item>
+    </string-array>
+
+    <string-array name="illit_year_album">
+        <item>2025</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2024</item>
+    </string-array>
+
+    <string-array name="lesserafim_year_album">
+        <item>2025</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2022</item>
+        <item>2024</item>
+        <item>2025</item>
+    </string-array>
+
+    <string-array name="straykids_year_album">
+        <item>2021</item>
+        <item>2015</item>
+        <item>2023</item>
+        <item>2020</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2025</item>
+        <item>2022</item>
+    </string-array>
+
+    <string-array name="twice_year_album">
+        <item>2018</item>
+        <item>2021</item>
+        <item>2019</item>
+        <item>2025</item>
+        <item>2015</item>
+        <item>2019</item>
+        <item>2017</item>
+        <item>2024</item>
+    </string-array>
+</resources>
