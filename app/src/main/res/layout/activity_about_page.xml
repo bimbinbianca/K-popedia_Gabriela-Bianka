@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/userProfile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutPage">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/materialCardView1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="90dp"
+
+        app:cardCornerRadius="50dp"
+        app:cardElevation="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imgProfile1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:src="@drawable/profil_anon" />
+    </com.google.android.material.card.MaterialCardView>
+
+    <TextView
+        android:id="@+id/nameProfile"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        android:text="@string/name_user"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        android:textAlignment="center"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/materialCardView1"
+        app:layout_constraintVertical_bias="0.128" />
+
+    <TextView
+        android:id="@+id/emailProfile"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:scaleType="centerCrop"
+        android:text="@string/email_user"
+        android:textSize="20dp"
+        app:layout_constraintHorizontal_bias="0.5"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nameProfile" />
+
+    <TextView
+        android:id="@+id/birthdayProfile"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:scaleType="centerCrop"
+        android:text="@string/birthday_user"
+        android:textSize="20dp"
+        app:layout_constraintHorizontal_bias="0.5"
+        android:textAlignment="center"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/emailProfile" />
+
+    <Button
+        android:id="@+id/button_edit"
+        style="@style/ButtonGeneral.SecondaryVariant"
+        android:layout_width="137dp"
+        android:layout_height="59dp"
+        android:text="Edit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+
+        app:layout_constraintTop_toBottomOf="@+id/birthdayProfile"
+        app:layout_constraintVertical_bias="0.105" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
