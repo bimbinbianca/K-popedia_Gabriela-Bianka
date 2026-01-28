@@ -1,5 +1,5 @@
 # K-popedia
-Kpopedia is an Android application that provides structured information about K-pop artists and groups in a simple and user-friendly interface.
+Kpopedia is an Android applicCompleted – Personal Projectation that provides structured information about K-pop artists and groups in a simple and user-friendly interface.
 
 ## Features
 - Display K-pop artist and group information
@@ -12,7 +12,7 @@ Kpopedia is an Android application that provides structured information about K-
 - Gradle
 
 ## Project Status
-Completed
+Completed – Personal Project
 
 ## Author
 Gabriela Bianka
